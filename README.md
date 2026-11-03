@@ -1,2 +1,2 @@
-# github-Yentzana-Upiicsa-CI-ABS-2027-3cm32-Marin-Nolasco-Isaac
-PRACTICAS 1,2 Y 3er Deptal   ABSTRACCION Y USO DE DATOS MARIN NOLASCO ISAAC 3CM32
+# github-Yentzana-Upiicsa-CI-ABS-2027-3cm32-Marin-Nolasco-Isaac-Alfredo-Dinorin
+PRACTICAS 1,2 Y 3er Deptal   ABSTRACCION Y USO DE DATOS MARIN NOLASCO ISAAC Y ALFREDO DINORIN 3CM32
